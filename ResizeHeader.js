@@ -6,7 +6,7 @@
 var ResizeHeaderOnScroll = function()
 {
 	this.protocol			= window.location.protocol;
-	this.domain				= window.location.host;
+	this.domain			= window.location.host;
 };
 
 ResizeHeaderOnScroll.prototype.init    = function()
